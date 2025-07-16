@@ -1,0 +1,10 @@
+import math as M
+print(M.ceil(68.987))
+print(int(M.sqrt(49)))
+print(M.exp(7))
+print(M.floor(70.143))
+print(M.log(7777777))
+print(M.fabs(7777777))
+print(M.pow(2,3))
+print(M.radians(30))
+print(M.degrees(3.1415926))
